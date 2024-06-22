@@ -2,10 +2,6 @@
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
 ![Screenshot 2024-06-22 152432](https://github.com/delvinjoseph13/Reminder_Application/assets/124490000/c33f8427-b3af-4b44-b518-cfce7cc89e01)
 
 
