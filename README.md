@@ -1,5 +1,10 @@
 # reminder_app
 
+
+![Screenshot 2024-07-12 091123](https://github.com/user-attachments/assets/09b59e94-50fa-41b0-8273-3be966397d7c) <br/>
+![Screenshot 2024-07-12 091228](https://github.com/user-attachments/assets/290c10c9-9c3c-4ab9-b6a9-af1e3006ac72)
+
+
 A new Flutter project.
 
 ## Getting Started
